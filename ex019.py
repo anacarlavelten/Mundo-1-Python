@@ -8,4 +8,3 @@ for i in range(quantidade):
     aluno.append(nome)
 sorteio = random.choice(aluno)
 print(f'O aluno sorteado foi: {sorteio}')
-print('Pedro é Lindo')
